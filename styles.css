@@ -30,7 +30,7 @@ nav{
 /*==========JUMBOTRON==========*/
 
 .jumbotron {
-	background-image:url("../img/hero.jpg");
+	background-image:url("../pet_store/hero.jpg");
 	background-size:cover;
 	background-position:center;
 	height:450px;
